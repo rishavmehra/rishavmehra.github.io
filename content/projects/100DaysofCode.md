@@ -1,14 +1,14 @@
 ---
 date: '2020-09-16'
 title: '100DaysOfCode'
-github: 'https://github.com/chandrikadeb7/100DaysOfCode'
+github: 'https://github.com/rishavmehra/100DaysofCode'
 external: ''
 tech:
-  - Kotlin/Java
-  - Spring Microservices
-  - Javascript
-  - CSS
+  - Java
   - Python
+  - Go
+  - DSA
+  
 company: ''
 showInProjects: true
 ---
