@@ -69,7 +69,7 @@ const Hero = () => {
       
       </p>
       <p>
-      Outside work, I occasionally write short amature write tweet about random technological stuff <a href='https://twitter.com/Rishavmehraa'>Twitter.</a> 
+        Outside work, I occasionally write short amature <a href='https://twitter.com/Rishavmehraa'>Tweet</a> and <a href='https://blogsbyrishav.ml'>Blogs</a> about random technological stuff  
       </p>
       <p>
       When off-screen, I read books.

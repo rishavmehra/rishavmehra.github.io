@@ -19,8 +19,8 @@ module.exports = {
       url: 'https://www.linkedin.com/in/rishavmehra',
     },
     {
-      name: 'reddit',
-      url: 'https://www.reddit.com/user/rishavmehra',
+      name: 'blog',
+      url: 'https://blogsbyrishav.ml',
     },
   ],
 

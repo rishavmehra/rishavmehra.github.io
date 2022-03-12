@@ -3,7 +3,7 @@ date: '2'
 title: 'Working on kubernetes'
 cover: './demo.png'
 github: 'https://github.com/rishavmehra/Kubernetes'
-cta: "https://kubernetes.io/"
+cta: 'https://kubernetes.io/'
 tech:
   - Kubernetes
   - Dockers
